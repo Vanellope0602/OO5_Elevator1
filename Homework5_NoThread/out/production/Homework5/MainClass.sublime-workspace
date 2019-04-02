@@ -1,0 +1,713 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"le",
+				"le_prev"
+			],
+			[
+				"pri",
+				"printf\tprintf …"
+			],
+			[
+				"s",
+				"strings"
+			],
+			[
+				"long",
+				"longFlag"
+			],
+			[
+				"str",
+				"string.h\tstandard header"
+			],
+			[
+				"p",
+				"person"
+			],
+			[
+				"b",
+				"bi"
+			],
+			[
+				"a",
+				"ai"
+			],
+			[
+				"n",
+				"num"
+			],
+			[
+				"e",
+				"e_shoff"
+			],
+			[
+				"JA",
+				"JAVA_8_HOME"
+			],
+			[
+				"JAVA",
+				"JAVA_8_HOME"
+			],
+			[
+				"for",
+				"fork"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"fun",
+				"func_String"
+			],
+			[
+				"co",
+				"cout"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"m",
+				"main\tmethod (main)"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"std",
+				"stdio.h\tstandard header"
+			],
+			[
+				"res",
+				"res_E"
+			],
+			[
+				"Tus",
+				"Tuse_rs0"
+			],
+			[
+				"St",
+				"Stall_rs0_E2"
+			],
+			[
+				"rs",
+				"rs_D"
+			],
+			[
+				"A3",
+				"A3_E"
+			],
+			[
+				"Tusers",
+				"Tuse_rs0"
+			],
+			[
+				"Stall_rs",
+				"Stall_rs0_E1"
+			],
+			[
+				"stallrs",
+				"Stall_rs0_M1"
+			],
+			[
+				"Stallrs",
+				"Stall_rs1_E2"
+			],
+			[
+				"Stall",
+				"Stall_rs"
+			],
+			[
+				"stall",
+				"Stall_rs"
+			],
+			[
+				"Tuse",
+				"Tuse_rt2"
+			],
+			[
+				"l",
+				"lui"
+			],
+			[
+				"be",
+				"beq"
+			],
+			[
+				"fwd",
+				"fwd_sel_M"
+			],
+			[
+				"rt_",
+				"rt_E"
+			],
+			[
+				"A3_",
+				"A3_W"
+			],
+			[
+				"M2E",
+				"M2E_ALU"
+			],
+			[
+				"rt",
+				"rt_D"
+			],
+			[
+				"M2",
+				"M2D_ALU"
+			],
+			[
+				"M2D",
+				"M2D_PCAdd8"
+			],
+			[
+				"fw",
+				"fwd_sel_E2"
+			],
+			[
+				"fwd_",
+				"fwd_sel_D1"
+			],
+			[
+				"res_",
+				"res_W"
+			],
+			[
+				"instr_",
+				"instr_W"
+			],
+			[
+				"ALUcr",
+				"ALUctr_E"
+			],
+			[
+				"if",
+				"if_beq_D"
+			],
+			[
+				"ins",
+				"instr_W"
+			],
+			[
+				"in",
+				"instr_D"
+			],
+			[
+				"PC8",
+				"PC_plus8_F"
+			],
+			[
+				"PC4",
+				"PC_plus4_F"
+			],
+			[
+				"PC_8",
+				"PC_plus8_W"
+			],
+			[
+				"PC",
+				"PC_plus4_D"
+			],
+			[
+				"ex",
+				"ext_imm_E"
+			],
+			[
+				"imm",
+				"ext_imm_D"
+			],
+			[
+				"rd",
+				"rd_E"
+			],
+			[
+				"NP",
+				"NPCout"
+			],
+			[
+				"inst",
+				"instr_E"
+			],
+			[
+				"Wri",
+				"WriteReg_E"
+			],
+			[
+				"W",
+				"WriteReg"
+			],
+			[
+				"PC_",
+				"PC_plus8_M"
+			],
+			[
+				"PC_pl",
+				"PC_plus4_M"
+			],
+			[
+				"PCAd",
+				"PCAdd4"
+			],
+			[
+				"ALU",
+				"ALUout_M"
+			],
+			[
+				"DM",
+				"DMout_M"
+			],
+			[
+				"PA",
+				"PCAdd4"
+			],
+			[
+				"PCA",
+				"PCAdd8"
+			],
+			[
+				"PC_pl4",
+				"PC_plus4_W"
+			],
+			[
+				"AL",
+				"ALUout_W"
+			],
+			[
+				"PCAdd",
+				"PCAdd8"
+			],
+			[
+				"Wr",
+				"WriteData_E"
+			],
+			[
+				"instr",
+				"instr_M"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C.sublime-build",
+					""
+				],
+				[
+					"Packages/C.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/CRun.sublime-build",
+					""
+				],
+				[
+					"Packages/CRun.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/CRun.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				"All Syntaxes"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/wangshanshan/Library/Application Support/Sublime Text 3/Packages/CRun.sublime-build",
+		"/Users/wangshanshan/Desktop/操作系统OS/OS实验课设计/OS_LAB2/TA-pmap.c",
+		"/Users/wangshanshan/Desktop/操作系统OS/OS实验课设计/OS_LAB2/pmap.h",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/OO-projects-master/Elevator/ooProject04_v2.0/src/ooProject02/InstrReader.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/OO-projects-master/Elevator/ooProject04_v2.0/src/ooProject02/InfoHandler.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/ObjectOriented_2018Spring-master/2_ElevatorDispatch/H2/src/elev/RequestQueue.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/ObjectOriented_2018Spring-master/2_ElevatorDispatch/H2/src/elev/Request.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/ObjectOriented_2018Spring-master/2_ElevatorDispatch/H2/src/elev/ALS_Scheduler.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/ObjectOriented_2018Spring-master/2_ElevatorDispatch/H2/src/elev/ElevAction.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/Java-Exercise-master/Elevator3/src/Elevator/Simulator.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/BUAA_ObjectedOriented-master/OO_all/OO_2/Elev/src/elevator/Request.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/BUAA_ObjectedOriented-master/OO_all/OO_2/Elev/src/elevator/Main.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/BUAA_ObjectedOriented-master/OO_all/OO_2/Elev/src/elevator/RequestQueue.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/BUAA_ObjectedOriented-master/OO_all/OO_3/Elev/src/elevator/Dispatch.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/BUAA_ObjectedOriented-master/OO_all/OO_3/Elev/src/elevator/Floor.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/BUAA_ObjectedOriented-master/OO_all/OO_5/ElevT-7/src/elevator/Dispatch.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/BUAA_ObjectedOriented-master/OO_all/OO_5/ElevT-7/src/elevator/Floor.java",
+		"/Users/wangshanshan/Desktop/操作系统OS/OS作业/PageReplace/src/Main.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/ObjectOriented_2018Spring-master/3_MultiElevator/src/multielev/Elevator.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/ObjectOriented_2018Spring-master/2_ElevatorDispatch/src/elev/ALS_Scheduler.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/ObjectOriented_2018Spring-master/2_ElevatorDispatch/src/elev/Scheduler.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/ObjectOriented_2018Spring-master/2_ElevatorDispatch/src/elev/Main.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/历年学生代码/ObjectOriented_2018Spring-master/2_ElevatorDispatch/src/elev/Elevator.java",
+		"/Users/wangshanshan/Desktop/操作系统OS/OS作业/Java_page_replace_CSDN.java",
+		"/Users/wangshanshan/Desktop/操作系统OS/OS作业/Java_page_replace_CSDN",
+		"/Users/wangshanshan/Desktop/操作系统OS/OS作业/页框访问顺序.txt",
+		"/Users/wangshanshan/Desktop/操作系统OS/OS作业/页框访问顺序",
+		"/Users/wangshanshan/Desktop/操作系统OS/OS实验课设计/OS_LAB2/pmap.c",
+		"/Users/wangshanshan/Downloads/linux-master/init/main.c",
+		"/Users/wangshanshan/Downloads/linux-master/kernel/power/main.c",
+		"/Users/wangshanshan/Downloads/linux-master/kernel/power/swap.c",
+		"/Users/wangshanshan/Downloads/linux-master/fs/autofs/init.c",
+		"/Users/wangshanshan/Desktop/操作系统OS/OS实验课设计/OS_LAB2/mmu.h",
+		"/Users/wangshanshan/Desktop/操作系统OS/OS实验课设计/OS_LAB2/init.c",
+		"/Users/wangshanshan/Desktop/操作系统OS/OS实验课设计/OS_LAB2/queue.h",
+		"/Users/wangshanshan/Downloads/queue.h",
+		"/Users/wangshanshan/Desktop/面向对象OO/Exp3/预习样例/src/CarModel.java",
+		"/Users/wangshanshan/Desktop/离散数学3-组合数学/生成排列.cpp",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework1_pro/src/Item.java",
+		"/Users/wangshanshan/Desktop/printspace.c",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework3_pro/src/MainClass.java",
+		"/Users/wangshanshan/Desktop/printFormat.c",
+		"/Users/wangshanshan/Desktop/操作系统OS/OS实验课设计/OS_LAB1/print.c",
+		"/Users/wangshanshan/Desktop/操作系统OS/OS实验课设计/OS_LAB1/printf.c",
+		"/Users/wangshanshan/.vimrc",
+		"/Users/wangshanshan/.bash_profile",
+		"/Users/wangshanshan/Desktop/2018秋 大二上/计算机组成/P2/回文串判断.asm",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack2/Saber/Hackshell.sh",
+		"/Users/wangshanshan/Desktop/Bella latiao.c",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack3/Assassin/src/Item.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack3/Assassin/src/ExpFactor.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack3/Archer/IO.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack3/Altergo/Tree.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack3/Altergo/Homework3.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack3/Altergo/Creat.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework3/第三次作业测试样例.txt",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack3/Saber/Main.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack3/Saber/Factory.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack3/Saber/function/Sin.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack3/Saber/function/Var.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack3/Saber/function/Mul.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack3/Saber/function/Exp.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack3/Saber/function/Cos.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack3/Saber/function/Add.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack3/Saber/function/Func.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/lectureCode-sp18-master/inheritance2/HoFDemo.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/lectureCode-sp18-master/inheritance2/IntUnaryFunction.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/lectureCode-sp18-master/inheritance2/TenX.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/.git/config",
+		"/Users/wangshanshan/Desktop/面向对象OO/.git/logs/refs/heads/master",
+		"/Users/wangshanshan/Desktop/面向对象OO/.git/logs/HEAD",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework3_pro/src/SinFunc.java",
+		"/Users/wangshanshan/Desktop/2018春 大一下/数据结构与程序设计/No.8 Homework/4Beijing Subway.c",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework3_pro/src/PowerFunc.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework3_pro/src/TreeNode.java",
+		"/Users/wangshanshan/Desktop/OOProj/OOHomework3/.git/logs/refs/heads/master",
+		"/Users/wangshanshan/Desktop/OOProj/OOHomework3/.git/index",
+		"/Users/wangshanshan/Desktop/OOProj/oo_course_2019_17373384_homework_3/.gitignore",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework3_pro/src/NodeContent.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework3_pro/src/Nested.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework3_pro/src/Item.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework3_pro/src/Expression.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework3_pro/src/CosFunc.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework3_pro/src/Constant.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework2_pro/src/Mainclass.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework2_pro/src/Item.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework2_pro/src/NormalFunc.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework2_pro/src/CosFunc.java",
+		"/Users/wangshanshan/Desktop/temp.txt",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework2_pro/src/PowerFunc.java",
+		"/Users/wangshanshan/Desktop/操作系统OS/OS实验课设计/OS_LAB1/readelf.c",
+		"/Users/wangshanshan/Desktop/2018春 大一下/数据结构与程序设计/No.6 Homework/family_tree_test.c",
+		"/Users/wangshanshan/Desktop/2018春 大一下/数据结构与程序设计/No.5 Homework/calculate_long.c",
+		"/Users/wangshanshan/Desktop/2018春 大一下/数据结构与程序设计/No.5 Homework/后缀表达式求值_CSDN.cpp",
+		"/Users/wangshanshan/Desktop/操作系统OS/OS实验课设计/OS_LAB1/kerelf.h",
+		"/Users/wangshanshan/Desktop/操作系统OS/OS实验课设计/OS_LAB1/main.c",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack2/Saber/src/exp/Exp.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack2/HackShell.sh",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack2/Rider/Hackshell.sh",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack2/Lancer/HackShell.sh",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack2/Hachshell.sh",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack2/Assassin/Hackshell.sh",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack2/Altergo/HackShell",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack2/Archer/untitled.sh",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack2/Altergo/src/poly/PolyDerived.java",
+		"/Users/wangshanshan/Downloads/pbatch2.sh",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack2/Saber/src/exp/Poly.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack2/Assassin/src/Solution.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack2/Assassin/src/Parser.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack2/Altergo/src/poly/PolyDeri.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework2_pro/out/production/Homework2_pro/pbatch2.sh",
+		"/Users/wangshanshan/Desktop/SquareNum.java",
+		"/Users/wangshanshan/Desktop/matrixCal.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack/Caster/src/math/Main.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Homework1_pro/src/Derivation.java",
+		"/Users/wangshanshan/Desktop/HackData.txt",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack/Altergo/src/Poly.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack/Altergo/src/Polynomial.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack/Lancer/src/ooworkone/POlly.java",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack/Saber/Saber_hack/out/production/Saber_hack/temp.txt",
+		"/Users/wangshanshan/Desktop/os.sh",
+		"/Users/wangshanshan/Desktop/output.c",
+		"/Users/wangshanshan/Desktop/面向对象OO/Hack/69bc1c9f699cbf6c37d3ee516df43df67e6543a0/src/Main.java",
+		"/Users/wangshanshan/Desktop/OOProj/oo_2019_homework_17373384_pre_4/src/APlusBFour.java",
+		"/Users/wangshanshan/Documents/回文数/回文数/main.c",
+		"/Users/wangshanshan/Desktop/OOProj/oo_course_2019_17373384_homework_1/src/Derivation.java",
+		"/Users/wangshanshan/Desktop/A-small-practice.in",
+		"/Users/wangshanshan/Desktop/OOProj/Homework1/src/Derivation.java"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 251.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/CRun.sublime-build",
+	"project": "MainClass.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
